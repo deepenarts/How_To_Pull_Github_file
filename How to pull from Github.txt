@@ -1,0 +1,5 @@
+$mkdir gits
+$cd gits
+$pwd
+$git init
+$git pull pasteLink
